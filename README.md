@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2 align=center>Hi, I'm Nai 💖</h3>
+
+<h3 align=center>A programmer girl based in <a href=https://en.wikipedia.org/wiki/Argentina><strong>Argentina</strong></a> 🧉</h4>
+
+- 🔭 I'm currently working on [**Replay**](https://github.com/naipotato/Replay), a YouTube client for [**GNOME**](https://www.gnome.org) 👣
+- 🌱 I'm currently learning [**JavaScript**](https://ecma-international.org/publications-and-standards/standards/ecma-262/) and [**Rust**](https://www.rust-lang.org/) 🦀
+- 📫 You can reach me at [**Telegram**](https://t.me/naipotato), the [**Fediverse**](https://transfem.social/@naipotato), or via [**e-mail**](mailto:naiara@naiara.one)
 
 <!--
 **naipotato/naipotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
