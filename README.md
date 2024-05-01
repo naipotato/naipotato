@@ -1,6 +1,7 @@
-<h2 align=center>Hi, I'm Nai 💖</h3>
-
-<h3 align=center>A programmer girl based in <a href=https://en.wikipedia.org/wiki/Argentina><strong>Argentina</strong></a> 🧉</h4>
+<div align=center>
+  <h2>Hi there, I'm Nai 💖</h3>
+  <h3>A programmer girl based in <a href=https://en.wikipedia.org/wiki/Argentina><strong>Argentina</strong></a> 🧉</h4>
+</div>
 
 - 🔭 I'm currently working on [**Replay**](https://github.com/naipotato/Replay), a YouTube client for [**GNOME**](https://www.gnome.org) 👣
 - 🌱 I'm currently learning [**JavaScript**](https://ecma-international.org/publications-and-standards/standards/ecma-262/) and [**Rust**](https://www.rust-lang.org/) 🦀
