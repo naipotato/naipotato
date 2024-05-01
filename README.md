@@ -10,26 +10,34 @@
 
 <h3>My Projects</h3>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay" alt="Replay Card">
-</picture>
+<a href="https://github.com/naipotato/Replay">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay" alt="Replay Card">
+  </picture>
+</a>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi" alt="Vadi Card">
-</picture>
+<a href="https://github.com/naipotato/Vadi">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi" alt="Vadi Card">
+  </picture>
+</a>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=VCF&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=VCF" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi" alt="VCF Card">
-</picture>
+<a href="https://github.com/naipotato/vcf">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=vcf&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=vcf" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=vcf" alt="vcf Card">
+  </picture>
+</a>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Omega-Kernel-ES&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Omega-Kernel-ES" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi" alt="Omega Kernel ES Card">
-</picture>
+<a href="https://github.com/naipotato/Omega-Kernel-ES">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Omega-Kernel-ES&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
+    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Omega-Kernel-ES" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Omega-Kernel-ES" alt="Omega Kernel ES Card">
+  </picture>
+</a>
