@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>Hi there, I'm Nai 💖</h3>
-  <h4>A programmer girl based in <a href="https://en.wikipedia.org/wiki/Argentina">Argentina</a> 🧉</h4>
+  <h2>Hi there, I'm Nai 💖</h2>
+  <h3>A programmer girl based in <a href="https://en.wikipedia.org/wiki/Argentina">Argentina</a> 🧉</h3>
 </div>
 
 - 🔭 I'm currently working on [**Replay**](https://github.com/naipotato/Replay), a YouTube client for [**GNOME**](https://www.gnome.org) 👣
