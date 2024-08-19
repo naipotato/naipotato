@@ -1,57 +1,38 @@
-<div align="center">
-  <h2>Hi there, I'm Nai 💖</h2>
-  <h3>A programmer girl based in <a href="https://en.wikipedia.org/wiki/Argentina">Argentina</a> 🧉</h3>
-</div>
+## Hello, I'm Nai 💖
 
-- 🔭 I'm currently working on [**Replay**](https://github.com/naipotato/Replay), a YouTube client for [**GNOME**](https://www.gnome.org) 👣
-- 🌱 I'm currently learning [**JavaScript**](https://ecma-international.org/publications-and-standards/standards/ecma-262/) and [**Rust**](https://www.rust-lang.org/) 🦀
-- 📫 You can reach me at [**Telegram**](https://t.me/naipotato), the [**Fediverse**](https://transfem.social/@naipotato), or via [**e-mail**](mailto:naiara@naiara.one)
-- 😄 My pronouns are [**she/her**](https://pronoun.is/she/her/)
+A 25-year-old geek and programmer from Argentina, with a passion for
+technology and coding. 💻
+
+I love exploring new programming languages and frameworks, always eager to
+expand my skill set and tackle exciting challenges. As a proud GNOME user, I
+value the freedom and flexibility that open-source software offers, and I
+actively contribute to projects that resonate with my values. 👣
+
+### My Mission
+I advocate for a freer, fairer, and more supportive world, where everyone has
+the opportunity to thrive and contribute. I believe in the power of community,
+mutual aid, and collaboration to create positive change. My work is driven by a
+desire to dismantle oppressive systems and promote autonomy for all.
+
+### What I'm Working On
+Currently, I'm working at **Replay**, a GNOME app designed for following content
+creators across multiple video platforms. I'm also diving into **Rust** and
+**Lua**, and I love collaborating with others. If you're interested in working
+together or just want to chat about tech, feel free to reach out!
 
 ### My Projects
+All my projects are hosted on my own code forge:
+[code.potato.zone/naipotato](https://code.potato.zone/naipotato). You can
+explore my repositories and contributions there. 
 
-<a href="https://github.com/naipotato/Replay">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Replay" alt="Replay Card">
-  </picture>
-</a>
+### Support My Work
+If you appreciate my work and would like to support me, consider donating via
+[Liberapay](https://liberapay.com/naipotato/donate). Your contributions help me
+continue my projects and make a positive impact in the community!
 
-<a href="https://github.com/naipotato/Vadi">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Vadi" alt="Vadi Card">
-  </picture>
-</a>
+### Let's Connect
+Feel free to connect with me on the Fediverse:
+[@naipotato](https://transfem.social/@naipotato) or visit my personal website:
+[naiara.one](https://naiara.one/). I'm always open to new ideas and discussions!
 
-<a href="https://github.com/naipotato/vcf">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=vcf&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=vcf" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=vcf" alt="vcf Card">
-  </picture>
-</a>
-
-<a href="https://github.com/naipotato/Omega-Kernel-ES">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Omega-Kernel-ES&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Omega-Kernel-ES" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=naipotato&repo=Omega-Kernel-ES" alt="Omega Kernel ES Card">
-  </picture>
-</a>
-
-### My Stats
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=naipotato&show_icons=true&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api?username=naipotato&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=naipotato&show_icons=true" alt="Naiara's GitHub stats">
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=naipotato&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=320&theme=github_dark_dimmed&bg_color=00000000" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=naipotato&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=320" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=naipotato&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=320" alt="Naiara's top langs">
-</picture>
+Thanks for stopping by!
