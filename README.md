@@ -1,38 +1,22 @@
-## Hello, I'm Nai 💖
+## Hello, I'm Naiara 🌹
 
-A 25-year-old geek and programmer from Argentina, with a passion for
-technology and coding. 💻
+I'm a software developer from Argentina specializing in **Flutter** and
+**GNOME**. I’m passionate about technology and open-source software, actively
+contributing to projects that align with my values.
 
-I love exploring new programming languages and frameworks, always eager to
-expand my skill set and tackle exciting challenges. As a proud GNOME user, I
-value the freedom and flexibility that open-source software offers, and I
-actively contribute to projects that resonate with my values. 👣
+### Current Projects
+I am currently developing **Replay**, a GNOME application designed to help users
+follow content creators across multiple video platforms. I'm also exploring
+**Rust** and **Lua**.
 
-### My Mission
-I advocate for a freer, fairer, and more supportive world, where everyone has
-the opportunity to thrive and contribute. I believe in the power of community,
-mutual aid, and collaboration to create positive change. My work is driven by a
-desire to dismantle oppressive systems and promote autonomy for all.
-
-### What I'm Working On
-Currently, I'm working at **Replay**, a GNOME app designed for following content
-creators across multiple video platforms. I'm also diving into **Rust** and
-**Lua**, and I love collaborating with others. If you're interested in working
-together or just want to chat about tech, feel free to reach out!
-
-### My Projects
-All my projects are hosted on my own code forge:
-[code.potato.zone/naipotato](https://code.potato.zone/naipotato). You can
-explore my repositories and contributions there. 
-
-### Support My Work
-If you appreciate my work and would like to support me, consider donating via
-[Liberapay](https://liberapay.com/naipotato/donate). Your contributions help me
-continue my projects and make a positive impact in the community!
+### Check Out My Work
+You can explore my projects and contributions on my Forgejo profile:
+[code.potato.zone/naipotato](https://code.potato.zone/naipotato).
 
 ### Let's Connect
-Feel free to connect with me on the Fediverse:
+Feel free to reach out if you're interested in collaborating or discussing
+technology! You can find me on the Fediverse:
 [@naipotato](https://transfem.social/@naipotato) or visit my personal website:
-[naiara.one](https://naiara.one/). I'm always open to new ideas and discussions!
+[naiara.one](https://naiara.one/).
 
 Thanks for stopping by!
