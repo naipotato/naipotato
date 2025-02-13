@@ -1,4 +1,4 @@
-## Hey, I'm Naiara 🌹✊  
+## Hey, I'm Naiara 🖤
 
 I'm a software rebel from Argentina, specializing in **Flutter** and **GNOME**.
 I’m not just passionate about technology—I’m on a mission to use open-source as
