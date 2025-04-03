@@ -27,4 +27,4 @@ free software!
 - Fediverse: [@nyx_lyb3ra@rebel.ar](https://rebel.ar/@nyx_lyb3ra)
 - Website: [naiara.one](https://naiara.one)
 
-A big hug, and let's keep fighting for freedom! 🚩🔥
+A big hug, and let's keep fighting for freedom! 🏴🔥
